@@ -1,2 +1,2 @@
 # flight-management-system
-Flight Management System
+This is a C++ console-based Flight Management System to manage flight schedules, passenger bookings, and ticket information. Implemented core features including adding, updating, searching, and deleting flight records, as well as booking and cancellation functions. It had applied object-oriented programming concepts such as classes and encapsulation, together with file handling for persistent data storage. Improved problem-solving and programming skills by designing a structured, menu-driven application with an intuitive user interface.
